@@ -6,7 +6,7 @@
 ### Author: Chris Merritt
 
 ### Links and Resources
-* [repo](http://xyz.com) 
+* [repo](https://github.com/401-advanced-javascript-merritt/lab-01) 
 
 
 ### Modules
