@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest --coverage --verbose",
     "test-watch": "jest --coverage --verbose --watchAll",
-    "lint": "eslint**/*.js"
+    "lint": "eslint **/*.js"
   },
   "author": "",
   "license": "ISC",
